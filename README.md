@@ -1,6 +1,7 @@
 # IE-EnC-Blog
 
-<em>A Blog website containing articles ranging from Electronics, ML, Coding, and many others.</em>
+<em>A Blog website containing articles ranging from Electronics, ML, Coding, and many others.<br>
+Made using only HTML & CSS</em>
 
 <code>Wake Up, Neo. . .</code>
 
